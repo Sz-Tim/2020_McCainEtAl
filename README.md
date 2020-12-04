@@ -2,6 +2,8 @@
 
 ---  
 
+[![DOI](https://zenodo.org/badge/318245939.svg)](https://zenodo.org/badge/latestdoi/318245939)
+
 Code repository accompanying the manuscript.
 
 
