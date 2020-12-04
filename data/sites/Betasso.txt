@@ -1,0 +1,56 @@
+"ID","Date","Site .","Transect","Elevation","Species","Trap No","Tag/ Clip","Fate","Sex","Reprod","Mass","Bait","Notes","tail","hindfoot","ear","SK notes"
+1,"6/23/2010 am","Betasso","Meadow",1900.00,"Peromyscus maniculatus","M29","1598","recap","Male","X",14.00,"pb","short bicolored tail, no groove in upper incisors",54.00,19.00,16.00,
+2,"6/25/2010 am","Betasso","Meadow",1900.00,"Peromyscus maniculatus","M26","--","new, no mark","Female","Reprod.",20.00,"pb",,,,,
+3,"6/25/2010 am","Betasso","Forest",1900.00,"Peromyscus maniculatus","F18","--","new, no mark","Female","Non-reprod.",11.00,"seed",,,,,
+4,"6/25/2010 am","Betasso","Rocky",1900.00,"Peromyscus maniculatus","R9","--","new, no mark","Male","Scrotal",14.00,"seed",,,,,
+5,"6/22/2010 am","Betasso","Forest",1900.00,"Peromyscus maniculatus (?)","M58",,"escaped",,,,"seed","larger mouse, grayish, darker fur along back, P. man. or Reithro",,,,
+6,"6/25/2010 am","Betasso","Rocky",1900.00,"Peromyscus nastutus","R11","--","new, collected","Male","Scrotal",15.00,"pb","grey, long tail",87.00,22.00,19.00,"ID verified with skull and external measurements. Grey, long tail; no ear tag"
+7,"6/22/2010 am","Betasso","Meadow",1900.00,"Reithrodontomys megalotis","M20","190","ear tag","Male","X",9.00,"seed","thought was P. maniculatus in field",,,,
+8,"6/24/2010 am","Betasso","Meadow",1900.00,"Reithrodontomys megalotis","M19","190","recap","Male","X",9.50,"pb",,,,,
+9,"6/21/2010 am","Betasso","Meadow",1900.00,"Reithrodontomys megalotis","M24","1576","ear tag","Female","Reprod.",13.00,"pb","thought was P. maniculatus in field",59.00,,11.00,
+10,"6/25/2010 am","Betasso","Meadow",1900.00,"Reithrodontomys megalotis","M14","1576","recap","Female","Reprod.",13.00,"seed",,,,,
+11,"6/21/2010 am","Betasso","Meadow",1900.00,"Reithrodontomys megalotis","M42","1582","ear tag","Male","Scrotal",11.00,"seed","thought was P. maniculatus in field",57.00,,11.00,
+12,"6/23/2010 am","Betasso","Meadow",1900.00,"Reithrodontomys megalotis","M19","1582","recap","Male","Scrotal",10.50,"pb",,,,,
+13,"6/25/2010 am","Betasso","Meadow",1900.00,"Reithrodontomys megalotis","M19","1582","recap","Male","Scrotal",9.00,"pb",,,,,
+14,"6/22/2010 am","Betasso","Rocky",1900.00,"Tamias minimus (?)","R11","200","ear tag","Male","Non-scrot.",51.00,"?",,95.00,28.00,19.00,
+15,"6/24/2010 am","Betasso","Rocky",1900.00,"Tamias minimus (?)","R10","200","recap","Male","Non-scrot.",56.00,"pb",,,,,
+16,"6/21/2010 am","Betasso","Forest",1900.00,"Tamias quadrivittatus","F34","1577","ear tag","Male","Scrotal",65.00,"pb",,88.00,34.00,20.00,"Originally listed as Tamias minimus (?). Hindfoot >31, ear >18 means is probably T quad."
+17,"6/23/2010 am","Betasso","Rocky",1900.00,"Tamias quadrivittatus","R17","1577","recap","Male","Scrotal",66.00,"seed",,93.00,29.00,17.00,
+18,"6/21/2010 am","Betasso","Forest",1900.00,"Tamias quadrivittatus","F18","1578","ear tag","Male","Non-scrot.",68.00,"pb",,103.00,32.00,21.00,"Originally listed as Tamias minimus (?). Tail >100, hindfoot >31, ear >18 means is probably T quad."
+19,"6/21/2010 am","Betasso","Forest",1900.00,"Tamias minimus (?)","F14","1579","ear tag","Male","Non-scrot.",,"seed",,88.00,32.00,,
+20,"6/22/2010 am","Betasso","Forest",1900.00,"Tamias minimus (?)","F16","1579","recap","Male","Non-scrot.",,"?",,,,,
+21,"6/24/2010 am","Betasso","Forest",1900.00,"Tamias minimus (?)","F5","1579","recap","Male","Non-scrot.",72.00,"seed",,,,,"Orignially listed as Tamias, but other captures say Tamias minimus (?). 72g seems heavy for small measurements on first capture."
+22,"6/21/2010 am","Betasso","Forest",1900.00,"Tamias quadrivittatus","R22","1583","ear tag","Male","Non-scrot.",51.00,"pb",,102.00,32.00,18.00,"Originally listed as Tamias minimus (?). Tail >100, hindfoot >31, ear >18 means is probably T quad."
+23,"6/21/2010 am","Betasso","Rocky",1900.00,"Tamias quadrivittatus","R16","1584","ear tag","Female","Reprod.",73.00,"pb",,107.00,32.00,20.00,"Originally listed as Tamias minimus (?). Tail >100, hindfoot >31, ear >18 means is probably T quad."
+24,"6/25/2010 am","Betasso","Rocky",1900.00,"Tamias quadrivittatus","R18","1584","recap","Female","Reprod.",65.00,"seed",,,,,"Originally listed as Tamias minimus (?). Tail >100, hindfoot >31, ear >18 means is probably T quad."
+25,"6/24/2010 am","Betasso","Rocky",1900.00,"Tamias quadrivittatus","R9","1587","recap","Female","Reprod.",,"pb","escaped before weighing",,,,
+26,"6/25/2010 am","Betasso","Rocky",1900.00,"Tamias quadrivittatus","R7","1587","dead; collected","Female","Reprod.",,"pb","tail caught under open door; strange",,,,"ID based on skull measurements, original ID was Tamias sp. Tail caught under open door; strange; dead, collected. Ear tag #1587"
+27,"6/22/2010 am","Betasso","Meadow",1900.00,"Tamias minimus (?)","M3","1596","ear tag","Female","Reprod.",69.00,"seed",,94.00,31.00,19.00,
+28,"6/25/2010 am","Betasso","Forest",1900.00,"Tamias quadrivittatus (?)","F17","--","new, no mark","Male","Non-scrot.",56.00,"?",,,,,
+29,"6/25/2010 am","Betasso","Riparian",1900.00,"Tamias quadrivittatus","W16","--","new, no mark","Female","Non-reprod.",61.00,"pb",,,,,
+30,"6/25/2010 am","Betasso","Riparian",1900.00,"Tamias quadrivittatus","W17","--","dead; collected","Male","Scrotal",63.00,"seed",,,,,"ID based on skull measurements, original ID was Tamias sp. Dead, collected; no ear tag"
+31,"6/25/2010 am","Betasso","Forest",1900.00,"Tamias quadrivittatus","F24","1578","recap","Male","Non-scrot.",65.00,"seed","tag noted as 1576, but not a Tamias, probably 1578 but maybe 1579",,,,
+32,"6/22/2010 am","Betasso","Forest",1900.00,"Tamias quadrivittatus (?)","F4","1580/1581","recap","Male","Non-scrot.",61.00,"seed",,,,,"Originally listed as Tamias, but last capture was Tamias quadrivittatus (?)"
+33,"6/23/2010 am","Betasso","Forest",1900.00,"Tamias quadrivittatus (?)","F6","1580/1581","recap","Male","Non-scrot.",66.00,"seed",,,,,"Originally listed as Tamias, but last capture was Tamias quadrivittatus (?)"
+34,"6/25/2010 am","Betasso","Riparian",1900.00,"Tamias quadrivittatus (?)","W24","1580/1581","recap","Male","Non-scrot.",60.00,"pb",,,,,"Originally listed as Tamias, but last capture was Tamias quadrivittatus (?)"
+38,"6/21/2010 pm","Betasso","Rocky",1900.00,"Tamias quadrivittatus","R14","1578","dead; collected","Male","Non-scrot.",,"pb",,,,,"ID based on skull measurements, original ID was Tamias sp. Dead, collected; ear tag #1578"
+39,"6/21/2010 pm","Betasso","Riparian",1900.00,"Tamias quadrivittatus","W21","1583","dead; collected","Male","Non-scrot.",,"pb",,,,,"ID based on skull measurements, original ID was Tamias sp. Dead, collected; ear tag #1583"
+40,"6/21/2010 pm","Betasso","Forest",1900.00,"Tamias","F17","1587","ear tag","Female","Reprod.",78.00,"?",,98.00,32.00,20.00,
+41,"6/21/2010 pm","Betasso","Forest",1900.00,"Tamias quadrivittatus","F3","--","dead; collected","Male","Non-scrot.",45.00,"pb",,,,,"ID verified by skull measurements, although small for quad (maybe old minimus?).Dead, collected; no ear tag"
+42,"6/21/2010 pm","Betasso","Riparian",1900.00,"Tamias quadrivittatus (?)","W24","1580/1581","ear tag","Male","Non-scrot.",71.00,"pb",,83.00,29.00,19.00,"Originally listed as Tamias, but last capture was Tamias quadrivittatus (?)"
+43,"6/25/2010 am","Betasso","Meadow",1900.00,"Microtus sp.","M25","--","new, no mark","Male","Scrotal",33.00,"seed","dark brown color, some variation in dorsal hairs, underside grey not buff",31.00,19.00,,
+44,"6/21/2010 am","Betasso","Rocky",1900.00,"Neotoma mexicana","R8","1586","ear tag","Male","Scrotal",210.00,"seed",,,,,
+45,"6/25/2010 am","Betasso","Rocky",1900.00,"Neotoma mexicana","R15","--","new, no mark","Male","Scrotal",204.00,"pb","some hairs sticking out of tail; bushy tailed?",,,,
+46,"6/23/2010 am","Betasso","Forest",1900.00,"Peromyscus maniculatus","F62","1588","ear tag","Male","Scrotal",15.00,"seed",,62.00,17.00,16.00,
+47,"6/22/2010 am","Betasso","Riparian",1900.00,"Peromyscus maniculatus","W7","1590","ear tag","Male","Scrotal",16.00,"seed",,,,,
+48,"6/24/2010 am","Betasso","Riparian",1900.00,"Peromyscus maniculatus","W13","1590","recap","Male","Scrotal",17.50,"pb",,,,,
+49,"6/25/2010 am","Betasso","Riparian",1900.00,"Peromyscus maniculatus","W12","1590","recap","Male","Scrotal",15.00,"pb",,,,,
+50,"6/22/2010 am","Betasso","Forest",1900.00,"Peromyscus maniculatus","F17","1591","ear tag","Male","Scrotal",16.00,"pb",,,,,
+51,"6/23/2010 am","Betasso","Forest",1900.00,"Peromyscus maniculatus","F19","1591","recap","Male","Scrotal",15.00,"pb",,,,,
+52,"6/24/2010 am","Betasso","Forest",1900.00,"Peromyscus maniculatus","F20","1591","recap","Male","Scrotal",,"pb","escaped before ear tag read; most likely 1591",,,,"Originally listed as Permyscus sp.? If 1591 then is P man"
+53,"6/24/2010 am","Betasso","Riparian",1900.00,"Peromyscus maniculatus","W12","1593","ear tag","Male","Scrotal",18.00,"pb",,,,,
+54,"6/25/2010 am","Betasso","Riparian",1900.00,"Peromyscus maniculatus","W11","1593","recap","Male","Scrotal",16.00,"pb",,62.00,20.00,18.00,
+55,"6/23/2010 am","Betasso","Forest",1900.00,"Peromyscus maniculatus","F60","1594","ear tag","Female","Non-reprod.",18.00,"seed",,71.00,20.00,16.00,
+56,"6/24/2010 am","Betasso","Forest",1900.00,"Peromyscus maniculatus","F60","1594","recap","Female","Non-reprod.",20.00,"seed","no groove in teeth",73.00,20.00,8.00,
+57,"6/25/2010 am","Betasso","Forest",1900.00,"Peromyscus maniculatus","F60","1594","recap","Female","Non-reprod.",17.00,"seed",,,,,
+58,"6/22/2010 am","Betasso","Meadow",1900.00,"Peromyscus maniculatus","M14","1598","ear tag","Male","X",15.00,"seed",,58.00,,,

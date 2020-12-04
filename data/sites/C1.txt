@@ -1,0 +1,116 @@
+"ID","Date","Site .","Transect","Elevation","Species","Trap No","Tag/ Clip","Fate","Sex","Reprod","Mass","Bait","Notes","SK notes","tail","hindfoot","ear","SK Toe Clip Info"
+1,"8/12/2010 am","C1","Forest",,"Clethrionomys gapperi","F16","1000","toe clip","Female","Reprod.",24.00,"seed",,,38.00,16.00,14.00,"1-1"
+2,"8/13/2010 am","C1","Forest",,"Clethrionomys gapperi","F14","1000","recap","Female","Reprod.",24.00,"pb",,,,,,"1-1"
+3,"8/14/2010 am","C1","Forest",,"Clethrionomys gapperi","F9","1000","recap","Female","Reprod.",27.40,"pb",,,,,,"1-1"
+4,"8/15/2010 am","C1","Forest",,"Clethrionomys gapperi","F16","1000","recap","Female","Reprod.",25.00,"pb",,,,,,"1-1"
+5,"8/16/2010 am","C1","Forest",,"Clethrionomys gapperi","F12","1000","recap","Female","Reprod.",27.00,"pb",,,,,,"1-1"
+6,"8/12/2010 am","C1","Riparian",,"Clethrionomys gapperi","W71","3000","toe clip","Male","Scrotal",20.50,"seed",,,39.00,15.00,14.00,"1-3"
+7,"8/13/2010 am","C1","Riparian",,"Clethrionomys gapperi","W50","4000","toe clip","Male","Scrotal",16.25,"seed",,,,,,"1-4"
+8,"8/14/2010 am","C1","Riparian",,"Clethrionomys gapperi","W26","0100r","toe clip","Female","Non-reprod.",16.00,"pb",,,,,,"2-1"
+9,"8/15/2010 am","C1","Riparian",,"Clethrionomys gapperi","W28","0100r","recap","Female","Non-reprod.",16.00,"pb","original notation was non-scrotal male, but other two captures were female",,,,,"2-1"
+10,"8/16/2010 am","C1","Riparian",,"Clethrionomys gapperi","W27","0100r","recap","Female","Non-reprod.",15.00,"pb",,,,,,"2-1"
+11,"8/14/2010 am","C1","Forest",,"Clethrionomys gapperi","F14","0100f","toe clip","Male","Scrotal",21.00,"pb",,,,,,"2-1"
+12,"8/15/2010 am","C1","Forest",,"Clethrionomys gapperi","F23","0100f","recap","Male","Scrotal",20.00,"pb",,,,,,"2-1"
+13,"8/14/2010 am","C1","Forest",,"Clethrionomys gapperi","F16","0200","toe clip","Male","Scrotal",23.25,"pb",,,,,,"2-2"
+14,"8/15/2010 am","C1","Forest",,"Clethrionomys gapperi","F5","0200","recap","Male","Scrotal",22.00,"pb","trap number re-checked, is correct",,,,,"2-2"
+15,"8/16/2010 am","C1","Forest",,"Clethrionomys gapperi","F13","0200","recap","Male","Scrotal",20.75,"pb",,,,,,"2-2"
+16,"8/14/2010 am","C1","Forest",,"Clethrionomys gapperi","F36","0300","toe clip","Female","Reprod.",28.00,"pb",,,,,,"2-3"
+17,"8/15/2010 am","C1","Forest",,"Clethrionomys gapperi","F44","0300","dead, collected","Female","Reprod.",,"pb",,"Identification verified using lower jaw dentition (Check identity with 604 for toes clip)",,,,"2-3"
+18,"8/15/2010 am","C1","Forest",,"Clethrionomys gapperi","F6","0010","toe clip","Male","Scrotal",16.00,"pb",,,,,,"3-1"
+19,"8/15/2010 am","C1","Forest",,"Clethrionomys gapperi","F22","0020","toe clip","Male","Scrotal",15.50,"pb",,,,,,"3-2"
+20,"8/15/2010 am","C1","Forest",,"Clethrionomys gapperi","F57","0030","toe clip","Female","Reprod.",21.00,"pb",,,,,,"3-3"
+21,"8/15/2010 am","C1","Forest",,"Clethrionomys gapperi","F69","0040","toe clip","Female","Non-reprod.",13.00,"seed",,,,,,"3-4"
+22,"8/13/2010 am","C1","Riparian",,"Clethrionomys gapperi","W69","a","dead, collected","Female","Reprod.",19.25,"seed",,"Not in Collected DB",,,,"--"
+23,"8/16/2010 am","C1","Riparian",,"Clethrionomys gapperi","W7","b","new; no mark","Male","Non-scrot.",21.00,"seed",,,,,,"--"
+25,"8/16/2010 am","C1","Riparian",,"Clethrionomys gapperi","W31","c","new; no mark","Male","Scrotal",16.00,"pb",,,,,,"--"
+26,"8/16/2010 am","C1","Riparian",,"Clethrionomys gapperi","W63","d","new; no mark","Male","Scrotal",20.00,"seed",,,,,,"--"
+27,"8/16/2010 am","C1","Forest",,"Clethrionomys gapperi","F56","e","new; no mark","Male","Scrotal",15.00,"pb",,,,,,"--"
+28,"8/16/2010 am","C1","Forest",,"Clethrionomys gapperi","F16","f","new; no mark","Male","Scrotal",19.00,"pb",,,,,,"--"
+29,"8/16/2010 am","C1","Forest",,"Clethrionomys gapperi","F19","g","new; no mark","Male","Non-scrot.",14.25,"pb",,,3.00,15.00,11.00,"--"
+30,"8/16/2010 am","C1","Forest",,"Clethrionomys gapperi","F25","h","new; no mark","Male","Non-scrot.",22.00,"pb",,,,,,"--"
+31,"8/12/2010 am","C1","Riparian",,"Microtus longicaudus","W14","2000","toe clip","Female","Reprod.",37.00,"seed",,,58.00,18.00,14.00,"1-2"
+32,"8/13/2010 am","C1","Riparian",,"Microtus longicaudus","W16","2000","recap","Female","Reprod.",39.00,"seed",,,,,,"1-2"
+33,"8/16/2010 am","C1","Riparian",,"Microtus longicaudus","W15","2000","recap","Female","Reprod.",32.00,"seed","original notation was non-scrotal male, but other two captures were female, reprod",,,,,"1-2"
+34,"8/16/2010 am","C1","Riparian",,"Microtus longicaudus","W19","I","new; no mark","Male","Non-scrot.",32.00,"seed",,,,,,"--"
+35,"8/13/2010 am","C1","Riparian",,"Peromyscus maniculatus","W32","413","ear tag","Male","Non-scrot.",16.50,"pb",,,,,,
+36,"8/14/2010 am","C1","Riparian",,"Peromyscus maniculatus","W33","413","recap","Male","Non-scrot.",15.00,"seed",,,,,,
+37,"8/15/2010 am","C1","Riparian",,"Peromyscus maniculatus","W33","413","recap","Male","Non-scrot.",14.00,"seed",,,,,,
+38,"8/16/2010 am","C1","Riparian",,"Peromyscus maniculatus","W33","413","dead, collected","Male","Non-scrot.",13.00,"seed","recap","ID verified with skull. Dead, collected; ear tag #413",,,,
+39,"8/13/2010 am","C1","Forest",,"Peromyscus maniculatus","F39","415","ear tag","Male","Non-scrot.",16.50,"pb","trap number re-checked, is correct",,,,,
+40,"8/16/2010 am","C1","Forest",,"Peromyscus maniculatus","F49","415","recap","Male","Non-scrot.",15.50,"seed","trap number re-checked, is correct",,,,,
+41,"8/16/2010 am","C1","Forest",,"Peromyscus maniculatus","F11","429","recap","Male","Scrotal",18.75,"pb",,"Original ID was 423. No record of ear tag. Must be 429",,,,
+42,"8/12/2010 am","C1","Forest",,"Peromyscus maniculatus","F46","429","ear tag","Male","Scrotal",18.50,"seed",,,,,,
+43,"8/13/2010 am","C1","Forest",,"Peromyscus maniculatus","F45","429","recap","Male","Scrotal",17.20,"pb",,,,,,
+44,"8/14/2010 am","C1","Forest",,"Peromyscus maniculatus","F44","429","recap","Male","Scrotal",16.00,"pb",,,,,,
+45,"8/15/2010 am","C1","Forest",,"Peromyscus maniculatus","F45","429","recap","Male","Scrotal",13.00,"pb",,,,,,
+46,"8/12/2010 am","C1","Riparian",,"Peromyscus maniculatus","W69","431","ear tag","Female","Reprod.",26.50,"seed",,,,,,
+47,"8/13/2010 am","C1","Riparian",,"Peromyscus maniculatus","W71","431","recap","Female","Reprod.",16.25,"pb",,,,,,
+48,"8/15/2010 am","C1","Riparian",,"Peromyscus maniculatus","W73","431","recap","Female","Reprod.",16.75,"seed",,,,,,
+49,"8/16/2010 am","C1","Riparian",,"Peromyscus maniculatus","W75","431","recap","Female","Reprod.",15.00,"seed",,,,,,
+50,"8/12/2010 am","C1","Forest",,"Peromyscus maniculatus","F72","432","ear tag","Male","Scrotal",15.00,"pb",,,,,,
+51,"8/13/2010 am","C1","Forest",,"Peromyscus maniculatus","F75","432","recap","Male","Scrotal",14.00,"pb",,,,,,
+52,"8/13/2010 am","C1","Forest",,"Peromyscus maniculatus","F46","rip","recap?","Male","Non-scrot.",18.50,"seed","Rip in right ear - looks like ear tag torn out","Must be new as no obvious candidate for ear tag ripped out",,,,
+53,"8/15/2010 am","C1","Forest",,"Peromyscus maniculatus","F32","rip","recap","Male","Non-scrot.",17.50,"pb",,,,,,
+54,"8/13/2010 am","C1","Forest",,"Sorex cinereus","F56","j","released","Male","Scrotal",4.75,"pb",,,49.00,6.00,,
+55,"8/13/2010 am","C1","Riparian",,"Sorex cinereus","W60","k","released","Female","Reprod.",4.90,"pb",,,43.00,5.00,,
+56,"8/15/2010 am","C1","Riparian",,"Sorex cinereus","W47","l","released","Female","Reprod.",4.90,"pb",,,39.00,10.00,,
+57,"8/15/2010 am","C1","Riparian",,"Sorex monticolus","W20","m","released","X","X",4.50,"pb",,,54.00,11.00,,
+58,"8/12/2010 am","C1","Riparian",,"Sorex monticolus","W18","n","dead, collected","X","X",4.50,"pb",,"ID based with skull & dentition characteristics; dead, collected",,,,
+59,"8/14/2010 am","C1","Riparian",,"Sorex cinereus","W15","o","dead, collected","X","X",,"seed",,"ID based with skull & dentition characteristics; dead, collected",,,,
+60,"8/14/2010 am","C1","Riparian",,"Sorex cinereus","W27","p","dead, collected","X","X",,"pb",,"ID based with skull & dentition characteristics; dead, collected",,,,
+61,"8/14/2010 am","C1","Forest",,"Sorex sp.","F46","q","dead, collected","X","X",3.75,"seed",,"Not in Collected DB",,,,
+62,"8/16/2010 am","C1","Riparian",,"Sorex sp.","W50","r","dead, collected","X","X",,"seed",,"Not in Collected DB",,,,
+63,"8/16/2010 am","C1","Riparian",,"Sorex monticolus","W49","s","collected?","X","X",,"pb","""not dead, not collected. Yet""","ID based with skull & dentition characteristics",,,,
+64,"8/15/2010 am","C1","Forest",,"Tamias minimus","F64","32","ear tag","Male","Non-scrot.",44.00,"seed",,,89.00,25.00,11.00,
+65,"8/15/2010 am","C1","Forest",,"Tamias minimus","F73","99a","ear tag","Female","Reprod.",44.50,"seed",,,81.00,25.00,12.00,
+66,"8/16/2010 am","C1","Forest",,"Tamias minimus","F58","99b","new","Male","Non-scrot.",45.00,"seed","Tag not put on in this study!",,,,,
+67,"8/15/2010 am","C1","Forest",,"Tamias minimus","F29","100","ear tag","Male","Non-scrot.",36.50,"pb",,,89.00,28.00,12.00,
+68,"8/14/2010 am","C1","Forest",,"Tamias minimus","F69","401","ear tag","Female","X",51.00,"pb",,,,,,
+69,"8/16/2010 am","C1","Forest",,"Tamias minimus","F67","401","recap","Female","X",43.00,"pb",,,,,,
+70,"8/13/2010 am","C1","Forest",,"Tamias minimus","F42","414","ear tag","Male","Non-scrot.",39.00,"pb",,,,,,
+71,"8/13/2010 am","C1","Forest",,"Tamias minimus","F24","416","ear tag","Male","Non-scrot.",42.00,"pb","Half tail missing",,,,,
+72,"8/14/2010 am","C1","Forest",,"Tamias minimus","F10","417","ear tag","Male","Non-scrot.",,"seed",,,100.00,28.00,,
+73,"8/16/2010 am","C1","Forest",,"Tamias minimus","F23","417","recap; collected","Male","Non-scrot.",42.00,"seed",,"ID verified by skull measurements. Recap; collected. Ear tag #417",,,,
+74,"8/13/2010 am","C1","Forest",,"Tamias minimus","F34","430","ear tag","Male","Non-scrot.",34.50,"pb",,,,,,
+75,"8/15/2010 am","C1","Forest",,"Tamias minimus","F23","433","recap","Female","Reprod.",54.00,"seed",,"Original ID was 432. No record of being ear taggged. Must be 433",,,,
+76,"8/12/2010 am","C1","Forest",,"Tamias minimus","F29","433","ear tag","Female","Reprod.",,"seed",,,,,,
+77,"8/13/2010 am","C1","Forest",,"Tamias minimus","F30","433","recap","Female","Reprod.",54.00,"pb","original notation was non-scrotal male, but other two captures were female, reprod",,94.00,30.00,12.00,
+78,"8/14/2010 am","C1","Forest",,"Tamias minimus","F35","433","recap","Female","Reprod.",53.50,"seed",,,,,,
+79,"8/16/2010 am","C1","Forest",,"Tamias minimus","F11","433","recap","Female","Reprod.",,"seed","escaped","No record of being ear tagged. Tag must have been misread. Must be 433",,,,
+80,"8/12/2010 am","C1","Forest",,"Tamias minimus","F39","458","ear tag","X","X",48.00,"pb","true sex, reprod unknowable",,100.00,29.00,13.00,
+81,"8/13/2010 am","C1","Forest",,"Tamias minimus","F33","458","recap","X","X",49.00,"seed","true sex, reprod unknowable",,,,,
+82,"8/15/2010 am","C1","Forest",,"Tamias minimus","F32","458","recap","X","X",48.50,"seed","true sex, reprod unknowable",,,,,
+83,"8/16/2010 am","C1","Forest",,"Tamias minimus","F47","458","recap","X","X",47.00,"seed","trap number re-checked, is correct; true sex, reprod unknowable",,,,,
+84,"8/14/2010 am","C1","Forest",,"Tamias minimus","F37","489","ear tag","Male","Non-scrot.",47.00,"pb",,,94.00,27.00,14.00,
+85,"8/16/2010 am","C1","Forest",,"Tamias minimus","F33","489","recap","Male","Non-scrot.",47.00,"pb",,,,,,
+86,"8/14/2010 am","C1","Forest",,"Tamias minimus","F42","490","ear tag","Female","Non-reprod.",48.00,"seed",,,94.00,28.00,,
+87,"8/15/2010 am","C1","Forest",,"Tamias minimus","F34","490","recap","Female","Non-reprod.",48.00,"pb",,,,,,
+88,"8/16/2010 am","C1","Forest",,"Tamias minimus","F50","490","recap","Female","Non-reprod.",47.00,"seed",,,,,,
+89,"8/16/2010 am","C1","Forest",,"Tamias minimus","F29","416","recap","Male","Non-scrot.",,"seed","slipped from pesola scales","Original ID was 616. No record of being ear taggged. Must be 416",,,,
+93,"8/15/2010 am","C1","Riparian",,"Tamias minimus","W67","t","new; no mark","X","X",,"pb","Pushed in to trap? Found in evening",,,,,
+94,"8/16/2010 am","C1","Riparian",,"Tamias minimus","W10","u","new; no mark","Male","Scrotal",43.00,"seed",,,87.00,28.00,12.00,
+95,"8/16/2010 am","C1","Riparian",,"Tamias minimus","W43","v","new; no mark","Male","Non-scrot.",48.00,"pb",,,88.00,26.00,16.00,
+96,"8/16/2010 am","C1","Forest",,"Tamias minimus","F1","w","new; no mark","Female","Reprod.",36.50,"pb",,,92.00,28.00,12.00,
+97,"8/16/2010 am","C1","Forest",,"Tamias minimus","F24","x","new; no mark","Male","Non-scrot.",43.00,"pb",,,,,,
+98,"8/16/2010 am","C1","Forest",,"Tamias minimus","F32","y","new; no mark","Female","Non-reprod.",29.00,"seed",,,80.00,28.00,11.00,
+99,"8/16/2010 am","C1","Forest",,"Tamias minimus","F52","z","new; escaped","X","X",,"pb",,,,,,
+100,"8/16/2010 am","C1","Forest",,"Tamias minimus","F57","aa","new; no mark","Male","Non-scrot.",40.00,"seed",,,84.00,23.00,12.00,
+101,"8/16/2010 am","C1","Forest",,"Tamias minimus","F74","bb","new; escaped","X","X",,"pb",,,,,,
+102,"8/15/2010 am","C1","Riparian",,"Zapus princeps","W19","404","ear tag","X","X",17.00,"seed","true sex, reprod unknowable",,,,,
+103,"8/16/2010 am","C1","Riparian",,"Zapus princeps","W17","404","recap","X","X",16.00,"seed","true sex, reprod unknowable",,,,,
+104,"8/13/2010 am","C1","Riparian",,"Zapus princeps","W14","411","ear tag","X","X",27.50,"pb","true sex, reprod unknowable",,,,,
+105,"8/14/2010 am","C1","Riparian",,"Zapus princeps","W16","411","recap","X","X",28.00,"pb","true sex, reprod unknowable",,,,,
+106,"8/13/2010 am","C1","Riparian",,"Zapus princeps","W15","412","ear tag","Male","Non-scrot.",29.00,"seed",,,,,,
+107,"8/15/2010 am","C1","Riparian",,"Zapus princeps","W13","412","recap","Male","Non-scrot.",27.25,"pb",,"Original ID was 413. No record of being ear taggged. Must be 412",,,,
+108,"8/12/2010 am","C1","Riparian",,"Zapus princeps","W33","438","ear tag","Female","Reprod.",34.50,"seed","trap number re-checked, is correct",,150.00,32.00,15.00,
+109,"8/14/2010 am","C1","Riparian",,"Zapus princeps","W13","438","recap","Female","Reprod.",34.00,"pb",,,,,,
+110,"8/16/2010 am","C1","Riparian",,"Zapus princeps","W17","438","recap","Female","Reprod.",30.00,"pb",,,,,,
+111,"8/13/2010 am","C1","Riparian",,"Zapus princeps","W14","491","ear tag","Male","Non-scrot.",36.50,"pb",,,,,,
+112,"8/15/2010 am","C1","Riparian",,"Zapus princeps","W13","491","recap","Male","Non-scrot.",34.00,"seed",,,,,,
+113,"8/16/2010 am","C1","Riparian",,"Zapus princeps","W18","491","recap","Male","Non-scrot.",36.00,"pb",,,,,,
+114,"8/15/2010 am","C1","Riparian",,"Zapus princeps","W16","493","ear tag","Female","Non-reprod.",17.50,"pb",,,,,,
+115,"8/14/2010 am","C1","Riparian",,"Zapus princeps","W14","2033","ear tag","Male","Non-scrot.",28.00,"seed",,,,,,
+117,"8/16/2010 am","C1","Riparian",,"Zapus princeps","W8","cc","new; no mark","Female","Non-reprod.",13.00,"seed",,,,,,
+118,"8/16/2010 am","C1","Riparian",,"Zapus princeps","W16","dd","new; no mark","Female","Non-reprod.",13.00,"seed",,,,,,
+119,"8/16/2010 am","C1","Riparian",,"Zapus princeps","W19","ee","new; no mark","Female","Non-reprod.",15.50,"pb",,,,,,
+120,"8/16/2010 am","C1","Riparian",,"Zapus princeps","W66","ff","new; no mark","Female","Non-reprod.",15.50,"pb",,,,,,

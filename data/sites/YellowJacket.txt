@@ -1,0 +1,353 @@
+"ID","Site .","Team","Elevation","Date","Transect","Species","Trap No","Tag/ Clip","Fate","Sex","Reprod","Mass","Bait","Notes","tail","hindfoot","ear"
+6,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Ammospermophilus leucurus","R1","960","ear tag","Male","Non-scrotal",118,"seed","White stripe along side (no black), no stripes on face, upper tail black, under tail white",75.00,"37","7"
+7,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W24","94","ear tag","Male","Scrotal",,"seed","Escaped before all measurements could be taken",79.00,"--","--"
+8,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W2","251","ear tag","Female","Reprod.",16,"seed",,74.00,"18","11"
+9,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W3","251","collected","Female","Reprod.",14,"seed","Dead in trap",74.00,"15","13"
+10,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W2","252","ear tag","Male","Non-scrotal",16,"pb",,77.00,"18","12"
+11,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W2","252","recap","Male","Non-scrotal",14,"seed",,,,
+12,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W5","254","ear tag","Male","Non-scrotal",,"pb","multiple capture, escaped before could be weighed",77.00,"17","12"
+13,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W6","254","recap","Male","Non-scrotal",15,"pb",,,,
+14,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W22","261","ear tag","Male","Scrotal",21,"seed",,74.00,"18","12"
+15,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W21","261","recap","Male","Scrotal",21,"pb",,,,
+16,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W23","263","ear tag","Female","Non-reprod.",9,"seed",,76.00,"18","12"
+17,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W3","267","ear tag","Male","Scrotal",21,"pb",,72.00,"19","13"
+18,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W1","267","recap","Male","Scrotal",19,"pb",,,,
+19,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W7","272","ear tag","Male","Non-scrotal",24,"pb",,77.00,"16","11"
+20,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W13","280","ear tag","Male","Non-scrotal",12,"pb",,88.00,"18","11"
+21,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Meadow","Mus musculus","M9","281","ear tag","Male","Non-scrotal",12,"seed",,89.00,"17","11"
+22,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W12","292","ear tag","Male","Scrotal",16,"seed",,83.00,"18","12"
+23,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W3","1000","ear tag","Male","Non-scrotal",5,"pb",,62.00,"14","10"
+24,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W4","2003","ear tag","Female","Reprod.",16,"pb",,83.00,"18","12"
+25,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W2","2003","recap","Female","Reprod.",17,"pb",,,,
+26,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W3","2003","collected","Female","Reprod.",14,"pb","Dead in trap",82.00,"18","13"
+27,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W4","2004","ear tag","Female","Non-reprod.",7,"seed","Multiple capture",70.00,"16","10"
+28,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W4","2005","ear tag","Female","Non-reprod.",7,"seed","Multiple capture",68.00,"16","11"
+29,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W7","2006","ear tag","Male","Non-scrotal",7,"seed",,70.00,"15","10"
+30,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W9","2007","ear tag","Female","Non-reprod.",15,"pb",,76.00,"16","12"
+31,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W9","2008","ear tag","Male","Scrotal",19,"seed",,79.00,"16","11"
+32,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W7","2010","ear tag","Female","Non-reprod.",12,"pb",,80.00,"18","9"
+33,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W8","2011","ear tag","Female","Reprod.",20,"pb",,79.00,"18","11"
+34,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W7","2011","collected","Female","Reprod.",16,"pb","Dead in trap",76.00,"12","13"
+35,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W6","2013","ear tag","Female","Non-reprod.",6,"seed",,68.00,"17","10"
+36,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W4","2059","ear tag","Female","Reprod.",16,"seed","Tail not bi-coloured, no grooves on teeth",79.00,"17","12"
+37,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W5","2059","recap","Female","Reprod.",17,"seed",,,,
+38,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W5","2068","ear tag","Male","Non-scrotal",13,"pb",,80.00,"19","18"
+39,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W7","2075","ear tag","Male","Non-scrotal",13,"seed",,81.00,"19","10"
+40,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W8","2078","ear tag","Female","X",16,"seed",,82.00,"15","11"
+41,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W6","2078","recap","Female","X",11,"pb","Misread ear tag? No previous 2076, probably 2078",,,
+42,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W8","2079","ear tag","Female","Non-Reprod.",30,"pb","Pregnant",81.00,"15","12"
+43,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W8","2079","recap","Female","Non-reprod.",18,"pb",,,,
+44,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W8","2079","collected","Female","Non-reprod.",15,"pb","Dead in trap",80.00,"17","13"
+45,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W9","2080","ear tag","Male","Non-scrotal",14,"seed",,85.00,"17","10"
+46,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W9","2081","ear tag","Male","Non-scrotal",14,"pb",,80.00,"17","10"
+47,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W6","2090","ear tag","Male","Non-scrotal",11,"pb",,79.00,"17","9"
+48,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W12","2128","ear tag","Male","Non-scrotal",17,"pb",,84.00,"17","13"
+49,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W15","2128","recap","Male","Non-scrotal",17,"seed",,,,
+50,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W12","2128","collected","Male","Non-scrotal",15,"pb","Multiple capture; dead in trap",79.00,"15","13"
+51,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W14","2129","ear tag","Female","Non-reprod.",10,"pb",,75.00,"20","10"
+52,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W23","2135","ear tag","Female","Non-reprod.",14,"seed",,74.00,"17","10"
+53,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W23","2135","recap","Female","Non-reprod.",14,"pb",,,,
+54,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Mus musculus","W21","2136","ear tag","Female","Reprod.",20,"pb",,82.00,"17","13"
+55,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W22","2136","recap","Female","Reprod.",24,"seed",,,,
+56,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W22","2136","recap","Female","Reprod.",15,"seed",,,,
+58,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W4","a","collected","Female","Non-reprod.",10,"pb",,71.00,"17","12"
+59,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Mus musculus","W5","b","escaped",,,,"pb",,,,
+60,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W24","c","escaped",,,,"seed",,,,
+61,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W3","d","escaped",,,,"seed",,,,
+62,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W4","e","escaped","Female","Non-reprod.",,"seed",,73.00,"17",
+63,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W5","f","escaped",,,,"pb","multiple capture",,,
+64,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W6","g","escaped",,,,"pb",,,,
+65,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W7","h","escaped","Male","Non-scrotal",,"pb",,76.00,"19","13"
+66,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Mus musculus","W8","I","escaped","Female","Reprod.",,"seed",,81.00,"17","13"
+67,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Mus musculus","W25","j","escaped","Male","Scrotal",,"seed",,79.00,"18","--"
+68,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W11","k","released","Male","Non-scrotal",8,"pb",,74.00,"16","9"
+69,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W14","l","released","Male","Non-scrotal",12,"pb",,84.00,"16","11"
+70,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W2","m","collected","Female","Reprod.",15,"pb","Dead in trap",81.00,"17","14"
+71,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W22","n","released","Female","Non-reprod.",10,"pb",,79.00,"16","9"
+72,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W24","o","collected","Female","Non-reprod.",7,"seed","Dead in trap",61.00,"16","11"
+73,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W5","p","released","Female","Non-reprod.",7,"pb","Multiple capture",69.00,"14","9"
+74,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W5","q","collected","Female","Reprod.",15,"pb","Multiple capture; dead in trap",77.00,"16","13"
+75,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W6","r","released","Female","Non-reprod.",7,"pb","Multiple capture",73.00,"14","8"
+76,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W6","s","released","Male","Non-scrotal",6,"pb","Multiple capture",77.00,"17","8"
+77,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Mus musculus","W6","t","released","Male","Non-scrotal",10,"pb","Multiple capture",82.00,"18","10"
+78,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Perognathus flavus","M6","0001","toe clipped","Male","Scrotal",8,"seed",,55.00,"15","6"
+79,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Meadow","Perognathus flavus","M8","0001","recap","Male","Scrotal",7,"seed",,52.00,"15","6"
+80,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Perognathus flavus","M47","0002","toe clipped","Female","Reprod.",8,"pb",,59.00,"15","6"
+81,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Perognathus flavus","M11","0010","toe clipped","Male","Scrotal",9,"seed",,56.00,"15","5"
+82,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Meadow","Perognathus flavus","M25","0010","recap","Male","Scrotal",8,"pb",,,,
+83,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Perognathus flavus","M43","0010","recap","Male","Scrotal",8,"pb","long movement but appears correct",,,
+84,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Perognathus flavus","R17","0020","toe clipped","Female","Reprod.",10,"seed",,54.00,"17","5"
+85,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Perognathus flavus","M12","0100","toe clipped","Male","Scrotal",8,"pb",,51.00,"15","6"
+86,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Meadow","Perognathus flavus","M12","1000","toe clipped","Female","Reprod.",7,"seed",,50.00,"13","5"
+87,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Perognathus flavus","M11","1000","recap","Female","Reprod.",7,"seed",,,,
+88,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Perognathus flavus","R7","2000","toe clipped","Male","Scrotal",8,"seed","was very cold, but recovered when warmed",55.00,"16","6"
+89,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Perognathus flavus","R14","2000","recap","Male","Scrotal",9,"seed",,,,
+90,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Perognathus flavus","R15","2000","recap","Male","Scrotal",8,"seed",,,,
+91,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Perognathus flavus","R44","0200a","toe clipped","Male","Scrotal",6,"seed","double toe clip, appear to be different",57.00,"15","6"
+92,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Perognathus flavus","R12","0200b","toe clipped","Male","Scrotal",8,"seed","double toe clip, appear to be different",55.00,"15","5"
+93,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Meadow","Perognathus flavus","M11","u","escaped",,,,"seed",,,,
+94,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Perognathus flavus","M40","v","collected","Male","Scrotal",5,"seed","Dead in trap",49.00,"15","4"
+95,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus boylii","W15","258","ear tag","Male","Scrotal",24,"pb",,98.00,"22","19"
+96,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus boylii","M38","2015","ear tag","Female","Reprod.",22,"seed","Tail not strongly bi-coloured",82.00,"20","18"
+97,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus boylii","M38","2015","collected","Female","Reprod.",18,"seed","Dead in trap",,"21","19"
+98,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus boylii","M22","2021","ear tag","Female","Reprod.",22,"seed","different sex/reprod each day caught",111.00,"19.5","19"
+99,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus boylii","M22","2021","collected","Female","Reprod.",24,"seed","Dead in trap; tag number not originally noted in trapping but based on collection records is 2021; different sex/reprod each day caught",100.00,"21","21"
+100,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus boylii","R4","2051","ear tag","Male","Non-scrotal",14,"pb",,71.00,"21","19"
+101,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus boylii","R4","2051","recap","Male","Non-scrotal",15,"pb",,,,
+102,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus boylii","R2","2051","recap","Male","Non-scrotal",18,"pb",,,,
+103,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus boylii","R5","2051","recap","Male","Non-scrotal",15,"pb",,,,
+104,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus boylii","R10","2173","ear tag","Male","Scrotal",27,"pb","Short ears, long tail",103.00,"22","18"
+105,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus boylii","R12","2173","recap","Male","Scrotal",25,"pb",,,,
+106,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus boylii","M21","w","released","Female","Reprod.",24,"seed",,98.00,"20","18"
+107,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus boylii","M23","x","collected","Male","Scrotal",23,"seed","Dead in trap",94.00,"21","20"
+108,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus boylii","M45","y","released","Male","Non-scrotal",16,"seed",,72.00,"21","22"
+109,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus boylii","W21","z","released","Female","Reprod.",17,"pb",,82.00,"21","21"
+110,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus crinitus","W13","255","ear tag","Male","Non-scrotal",14,"pb","originally noted as P. maniculatus, but ID to P. crinitus with teeth & skull",63.00,"19","16"
+111,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus crinitus","W13","255","recap","Male","Non-scrotal",14,"seed","originally noted as P. maniculatus, but ID to P. crinitus with teeth & skull",,,
+112,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus crinitus","W13","255","collected","Male","Non-scrotal",14,"pb","Dead in trap, originally noted as P. maniculatus, but ID to P. crinitus with teeth & skull",,,
+113,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus crinitus?","W25","264","ear tag","Female","Reprod.",15,"pb","Pregnant. Tail tuft, tail > body, pectoral spot",72.00,"17","13"
+114,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Meadow","Peromyscus crinitus?","M22","2098","ear tag","Female","Reprod.",25,"seed","Orange sides",104.00,"22","17"
+115,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus crinitus?","M23","2098","recap","Female","Reprod.",25,"pb","Distinctive smell",,,
+116,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus crinitus?","M24","2098","recap","Female","Reprod.",19,"pb","Pectoral spot",,,
+117,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus crinitus?","M23","2098","recap","Female","Reprod.",24,"pb",,,,
+118,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus maniculatus","R51","208","ear tag","Male","Non-scrotal",19,"seed",,64.00,"17","14"
+119,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R53","208","recap","Male","Non-scrotal",20,"seed",,,,
+120,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R45","208","recap","Male","Non-scrotal",20,"pb",,,,
+121,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R50","208","recap","Male","Non-scrotal",18,"seed",,,,
+122,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R11","209","ear tag","Female","Reprod.",16,"pb",,68.00,"18","14"
+123,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R11","209","recap","Female","Reprod.",14,"pb",,,,
+124,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R12","209","recap","Female","Reprod.",16,"pb",,,,
+125,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R9","209","recap","Female","Reprod.",14,"seed",,,,
+126,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W19","259","ear tag","Male","Non-scrotal",22,"pb",,67.00,"20","18"
+127,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W21","260","ear tag","Male","Non-reprod.",20,"pb",,64.00,"18","18"
+128,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W23","262","ear tag","Female","Non-reprod.",17,"pb",,66.00,"17","19"
+129,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W24","262","recap","Female","Non-reprod.",16,"pb",,,,
+130,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W24","262","recap","Female","Non-reprod.",14,"pb",,,,
+131,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus maniculatus","M23","265","ear tag","Female","Non-reprod.",14,"pb",,62.00,"17","13"
+132,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M23","265","recap","Female","Non-reprod.",12,"pb",,,,
+133,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W1","266","ear tag","Female","Non-reprod.",14,"pb",,61.00,"20","11"
+134,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W10","275","ear tag","Female","Non-reprod.",10,"pb",,58.00,"19","16"
+135,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M35","278","ear tag","Female","Reprod.",16,"pb",,58.00,"19","11"
+136,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M39","278","recap","Female","Reprod.",15,"seed",,,,
+137,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W23","283","ear tag","Male","Non-scrotal",17,"seed","noted as recap, but this is first capture of this number, and measurments taken which indicates this was a ear tag not a recap",62.00,"19","15"
+138,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W23","283","recap","Male","Non-scrotal",14,"pb",,,,
+139,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M38","286","ear tag","Male","Non-scrotal",15,"pb",,69.00,"19","16"
+140,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M33","286","recap","Male","Non-scrotal",14,"pb",,,,
+141,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W15","299","ear tag","Male","Non-scrotal",17,"pb",,55.00,"19","14"
+142,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W16","299","recap","Male","Non-scrotal",14,"seed",,,,
+143,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M53","476","ear tag","Male","Non-scrotal",16,"seed",,62.00,"19","15"
+144,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus maniculatus","M53","476","recap","Male","Non-scrotal",16,"seed",,,,
+145,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M52","476","recap","Male","Non-scrotal",15,"seed",,,,
+146,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M53","476","recap","Male","Non-scrotal",13,"seed",,,,
+147,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M47","477","ear tag","Female","Reprod.",12,"seed",,56.00,"18","15"
+148,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M49","477","recap","Female","Reprod.",12,"pb",,,,
+149,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M55","479","ear tag","Male","Scrotal",24,"seed",,72.00,"19","16"
+150,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus maniculatus","M58","479","recap","Male","Scrotal",22,"pb",,,,
+151,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M59","479","recap","Male","Scrotal",22,"pb",,,,
+152,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M60","479","recap","Male","Scrotal",22,"pb",,,,
+153,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M56","480","ear tag","Female","Reprod.",20,"seed",,70.00,"19","16"
+154,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus maniculatus","M56","480","recap","Female","Reprod.",19,"pb","noted as 460 recap, but this is first capture of this number, appears to be 480",,,
+155,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M56","480","recap","Female","Reprod.",18,"pb",,,,
+156,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M60","481","ear tag","Female","Reprod.",23,"seed",,69.00,"17","16"
+157,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus maniculatus","M60","481","recap","Female","Reprod.",22,"seed",,,,
+158,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M60","481","recap","Female","Reprod.",21,"seed",,,,
+159,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M60","481","collected","Female","Reprod.",21,"seed","Dead in trap",64.00,"26","15"
+160,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M60","482","ear tag","Female","Non-reprod.",12,"pb","White spot on head",61.00,"18","13"
+161,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R8","484","ear tag","Male","Scrotal",15,"pb",,64.00,"17","13"
+162,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R9","484","recap","Male","Scrotal",16,"pb",,,,
+163,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R11","484","recap","Male","Scrotal",16,"pb",,,,
+164,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R7","484","recap","Male","Scrotal",15,"seed",,,,
+165,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W2","485","ear tag","Male","Non-scrotal",16,"seed",,66.00,"20","16"
+166,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W2","485","recap","Male","Non-scrotal",15,"seed",,66.00,"19",
+167,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W1","485","recap","Male","Non-scrotal",16,"seed",,,,
+168,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus maniculatus","R25","487","ear tag","Male","Non-scrotal",14,"pb","Stubby tail, buff back",56.00,"17","14"
+169,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R29","487","recap","Male","Non-scrotal",12,"seed",,,,
+170,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R29","487","recap","Male","Non-scrotal",11,"pb",,,,
+171,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M24","2017","ear tag","Male","Non-scrotal",17,"pb",,64.00,"19","14"
+172,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M21","2017","recap","Male","Non-scrotal",17,"seed",,,,
+173,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M20","2017","recap","Male","Non-scrotal",18,"seed",,,,
+174,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M42","2025","ear tag","Male","Non-scrotal",18,"pb",,61.00,"18","15"
+175,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus maniculatus","M42","2025","recap","Male","Non-scrotal",16,"pb",,,,
+176,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M44","2025","recap","Male","Non-scrotal",15,"seed",,,,
+177,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R26","2044","ear tag","Male","Non-scrotal",16,"pb",,59.00,"17","16"
+178,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R34","2044","recap","Male","Non-scrotal",16,"pb",,,,
+179,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R28","2044","recap","Male","Non-scrotal",15,"pb",,61.00,"18","15"
+180,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R19","2052","ear tag","Male","Non-scrotal",12,"pb",,52.00,"16","13"
+181,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R26","2052","recap","Male","Non-scrotal",12,"seed",,,,
+182,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M70","2055","ear tag","Female","Non-reprod.",12,"seed",,64.00,"18","14"
+183,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R54","2056","ear tag","Male","Scrotal",22,"pb",,68.00,"21","16"
+184,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R54","2056","recap","Male","Scrotal",21,"seed",,,,
+185,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R55","2056","recap","Male","Scrotal",20,"seed",,,,
+186,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R44","2057","ear tag","Female","Non-reprod.",12,"pb",,59.00,"17","15"
+187,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R44","2057","recap","Female","Non-reprod.",12,"pb",,,,
+188,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R45","2057","recap","Female","Non-reprod.",10,"pb",,,,
+189,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R48","2058","ear tag","Female","Reprod.",16,"seed",,61.00,"18","13"
+190,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R48","2058","recap","Female","Reprod.",16,"seed",,59.00,,
+191,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R49","2058","recap","Female","Reprod.",14,"seed",,,,
+192,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus maniculatus","R53","2067","ear tag","Female","Non-reprod.",17,"seed",,67.00,"17","13"
+193,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W15","2069","ear tag","Male","Scrotal",20,"seed",,69.00,"20","17"
+194,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W15","2069","recap","Male","Scrotal",20,"pb",,,,
+195,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W16","2070","ear tag","Female","Reprod.",30,"pb","Pregnant",81.00,"22","19"
+196,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W18","2070","recap","Female","Reprod.",32,"pb",,,,
+197,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W14","2070","recap","Female","Reprod.",33,"pb",,,,
+198,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W19","2070","recap","Female","Reprod.",35,"seed","Pregnant",,,
+199,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W16","2071","ear tag","Female","Non-reprod.",16,"seed",,65.00,"19","17"
+200,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W15","2071","recap","Female","Non-reprod.",14,"seed","Multiple capture",,,
+201,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W20","2071","recap","Female","Non-reprod.",14,"pb",,,,
+202,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W17","2071","recap","Female","Non-reprod.",13,"seed",,,,
+203,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W18","2074","ear tag","Female","Non-reprod.",14,"pb",,62.00,"18","13"
+204,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W17","2074","recap","Female","Non-reprod.",16,"seed",,66.00,"20",
+205,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W18","2074","recap","Female","Non-reprod.",14,"pb",,,,
+206,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W17","2074","recap","Female","Non-reprod.",14,"seed",,,,
+207,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W7","2077","ear tag","Female","Reprod.",19,"pb",,73.00,"19","14"
+208,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W10","2077","recap","Female","Reprod.",22,"pb",,,,
+209,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W10","2077","recap","Female","Reprod.",20,"seed",,,,
+210,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W18","2077","recap","Female","Reprod.",18,"pb",,,,
+211,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W11","2082","ear tag","Female","Reprod.",28,"seed",,69.00,"18","16"
+212,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W11","2082","recap","Female","Reprod.",27,"seed","Possibly pregnant",65.00,"19",
+213,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W19","2082","recap","Female","Reprod.",27,"pb",,,,
+214,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W10","2082","recap","Female","Reprod.",19,"seed",,,,
+215,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W12","2083","ear tag","Male","Scrotal",20,"seed",,79.00,"20","16"
+216,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W13","2083","recap","Male","scrotal",22,"seed",,,,
+217,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W11","2083","recap","Male","Scrotal",22,"seed",,,,
+218,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W11","2083","recap","Male","Scrotal",20,"seed",,,,
+219,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W14","2085","ear tag","Male","Non-scrotal",14,"pb",,60.00,"19","15"
+220,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W16","2085","recap","Male","Non-scrotal",14,"pb",,,,
+221,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W14","2085","recap","Male","Non-scrotal",14,"pb",,,,
+222,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R17","2088","ear tag","Female","Reprod.",22,"pb",,69.00,"19","16"
+223,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R16","2088","recap","Female","Reprod.",18,"seed",,,,
+224,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R17","2088","recap","Female","Reprod.",20,"seed",,,,
+225,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Peromyscus maniculatus","W19","2092","ear tag","Female","Reprod.",27,"pb",,67.00,"18","15"
+226,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W19","2092","recap","Female","Reprod.",28,"pb",,,,
+227,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W17","2092","recap","Female","Reprod.",28,"pb",,,,
+228,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W20","2092","recap","Female","Reprod.",22,"pb",,,,
+229,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W19","2092","recap","Female","Reprod.",18,"pb",,,,
+230,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R28","2094","ear tag","Female","Reprod.",18,"pb",,67.00,"18","15"
+231,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus maniculatus","R19","2095","ear tag","Female","Non-reprod.",10,"seed",,52.00,"17","13"
+232,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R20","2095","recap","Female","Non-reprod.",10,"pb",,,,
+233,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Meadow","Peromyscus maniculatus","M60","2099","ear tag","Male","Non-scrotal",25,"seed",,73.00,"19.5","15"
+234,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Meadow","Peromyscus maniculatus","M68","2100","ear tag","Male","Non-scrotal",14,"seed",,93.00,"19","14"
+235,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Peromyscus maniculatus","M68","2100","recap","Male","Non-scrotal",14,"seed",,,,
+236,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus maniculatus","M69","2100","recap","Male","Non-scrotal",12,"pb",,,,
+237,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M70","2100","recap","Male","Non-scrotal",12,"seed",,,,
+238,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W12","2127","ear tag","Female","Reprod.",21,"seed",,69.00,"20","15"
+239,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W10","2127","recap","Female","Reprod.",19,"seed","noted as 2121 recap, but this is the first instance of capture, likely 2127 with erroneous sex (male, scrotal)",,,
+240,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W12","2127","recap","Female","Reprod.",20,"pb","Multiple capture",,,
+241,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W15","2130","ear tag","Female","Non-reprod.",16,"seed","Multiple capture",66.00,"20","14"
+242,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W16","2130","recap","Female","Non-reprod.",16,"pb",,,,
+243,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W16","2131","ear tag","Female","Non-reprod.",14,"pb",,88.00,"21","15"
+244,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W19","2132","ear tag","Female","Reprod.",24,"seed",,77.00,"18","13"
+245,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W20","2132","recap","Female","Reprod.",20,"seed",,,,
+246,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W18","2132","recap","Female","Reprod.",20,"pb",,,,
+247,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W20","2132","recap","Female","Reprod.",18,"pb",,,,
+248,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W20","2133","ear tag","Male","Non-scrotal",22,"pb",,66.00,"21","14"
+249,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Peromyscus maniculatus","W20","2133","recap","Male","Non-scrotal",20,"seed","second tag added 290",,,
+250,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W20","2133","recap","Male","Non-scrotal",19,"seed","second tag 290",,,
+251,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W24","2134","ear tag","Female","Reprod.",20,"pb",,71.00,"18","15"
+252,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W23","2134","recap","Female","Reprod.",18,"seed",,,,
+253,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Peromyscus maniculatus","W13","2137","ear tag","Male","Non-scrotal",18,"pb",,69.00,"18","15"
+254,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W13","2137","recap","Male","Non-scrotal",16,"seed",,64.00,"19","--"
+255,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R1","2138","ear tag","Male","Non-scrotal",16,"pb",,60.00,"19","17"
+256,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R7","2141","ear tag","Male","Non-scrotal",18,"pb",,66.00,"18","17"
+257,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R9","2141","recap","Male","Non-scrotal",18,"pb",,,,
+258,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R6","2141","collected","Male","Non-scrotal",14,"pb","Dead in trap",58.00,"18","15"
+259,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R19","2143","ear tag","Male","Non-scrotal",12,"pb",,53.00,"18","14"
+260,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R25","2144","ear tag","Male","Non-scrotal",12,"pb",,64.00,"20","17"
+261,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus maniculatus","R44","2146","ear tag","Male","Scrotal",21,"pb",,69.00,"20","14"
+262,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R40","2146","recap","Male","Scrotal",24,"seed",,,,
+263,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus maniculatus","M59","2149","ear tag","Female","Non-reprod.",12,"pb",,59.00,"18","15"
+264,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M55","2149","recap","Female","Non-reprod.",10,"seed",,,,
+265,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M55","2149","recap","Female","Non-reprod.",10,"seed","Near dead, but ran away",,,
+266,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M70","2163","ear tag","Male","Scrotal",18,"pb",,66.00,"19","14"
+267,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M70","2163","recap","Male","Scrotal",16,"seed",,,,
+268,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R27","2168","ear tag","Female","Reprod.",21,"pb","Pregnant",71.00,"19","15"
+269,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R28","2168","recap","Female","Reprod.",21,"pb",,,,
+270,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R25","2169","ear tag","Female","Non-reprod.",11,"pb",,55.00,"23","15"
+271,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus maniculatus","R6","2174","ear tag","Male","Scrotal",20,"pb",,71.00,"19","16"
+272,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Peromyscus maniculatus","M28","2200","ear tag","Male","Non-scrotal",17,"pb",,72.00,"18.5","13"
+273,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M28","2200","recap","Male","Non-scrotal",17,"seed",,,,
+275,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Peromyscus maniculatus","W14","aa","escaped","Male","Non-reprod.",,"seed",,61.00,"17","13"
+276,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Meadow","Peromyscus maniculatus","M22","bb","escaped","Female","Reprod.",,"seed",,94.00,"21","19"
+277,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M59","cc","released","Male","Non-scrotal",13,"pb",,57.00,"18","14"
+278,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M64","dd","released","Female","Reprod.",13,"pb",,62.00,"17","13"
+279,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M64","ee","released","Female","Reprod.",14,"seed",,73.00,"17","16"
+280,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Peromyscus maniculatus","M69","ff","released","Male","Non-scrotal",15,"seed",,64.00,"18","13"
+281,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R31","gg","released","Male","Non-scrotal",22,"pb",,68.00,"19.5","15"
+282,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R33","hh","released","Male","Non-scrotal",12,"pb",,61.00,"18","14"
+283,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R4","ii","released","Male","Non-scrotal",15,"pb",,65.00,"19","15"
+284,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus maniculatus","R44","jj","released","Male","Non-scrotal",8,"pb",,50.00,"18","11"
+285,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W16","kk","released","Female","Non-reprod.",18,"pb",,71.00,"18","16"
+286,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Peromyscus maniculatus","W2","ll","released","Male","Non-scrotal",14,"seed",,67.00,"19.5","16"
+289,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus truei","R25","210","collected","Female","Non-reprod.",12,"pb",,74.00,"20","19"
+290,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus truei","R46","486","collected","Female","Non-reprod.",20,"pb",,83.00,"19","20"
+291,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus truei","R48","2060","ear tag","Male","Non-scrotal",21,"seed","Proportions seemed right for truei",95.00,"20","21"
+292,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus truei","R43","2060","recap","Male","Non-scrotal",21,"seed",,,,
+293,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus truei","R39","2060","recap","Male","Non-scrotal",21,"seed",,,,
+294,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R33","2060","recap","Male","Non-scrotal",22,"pb",,,,
+295,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus truei","R52","2060","recap","Male","Non-scrotal",21,"seed",,,,
+296,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus truei","R3","2061","ear tag","Male","Non-scrotal",24,"pb",,87.00,"21","23"
+297,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus truei","R15","2061","recap","Male","Non-scrotal",25,"pb",,,,
+298,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R15","2061","recap","Male","Non-scrotal",22,"pb",,,,
+299,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus truei","R17","2061","recap","Male","Non-scrotal",19,"pb",,,,
+300,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus truei","R11","2064","ear tag","Female","Reprod.",24,"seed",,91.00,"21","23"
+301,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus truei","R9","2064","recap","Female","Reprod.",26,"seed",,,,
+302,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus truei","R6","2064","recap","Female","Reprod.",24,"pb",,,,
+303,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R8","2064","recap","Female","Reprod.",22,"pb",,,,
+304,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus truei","R11","2064","recap","Female","Reprod.",21,"pb",,,,
+305,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus truei","R26","2065","ear tag","Male","Non-scrotal",26,"pb",,97.00,"23","25"
+306,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Peromyscus truei","R26","2065","recap","Male","Non-scrotal",26,"seed",,,,
+307,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus truei","R16","2065","recap","Male","Non-scrotal",25,"pb",,,,
+308,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R16","2065","recap","Male","Non-scrotal",22,"pb",,,,
+309,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Peromyscus truei","R21","2150","ear tag","Female","Non-reprod.",12,"pb","No pectoral spot",75.00,"21","21.5"
+310,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R35","2166","ear tag","Female","Non-reprod.",12,"pb",,75.00,"21","20"
+311,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R21","2170","collected","Male","Non-scrotal",24,"pb","Lost tail tip",89.00,"21","22"
+312,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R17","2171","ear tag","Female","Reprod.",20,"pb",,85.00,"22","23"
+313,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus truei","R15","2171","recap","Female","Reprod.",16,"pb",,,,
+314,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R14","2172","ear tag","Male","Scrotal",21,"pb",,99.00,"22","22"
+315,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus truei","R21","2172","recap","Male","Scrotal",20,"pb",,,,
+316,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R1","2175","ear tag","Male","Non-scrotal",16,"pb","Fine tail with tuft. Juvenile",84.00,"22","18"
+317,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus truei","R2","2175","recap","Male","Non-scrotal",15,"pb","Ears big for size. Juvenile",,,
+318,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus truei","R1","mm","collected","Female","Reprod.",15,"pb",,71.00,"22","21"
+319,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Rocky","Peromyscus truei","R39","nn","collected","Male","Scrotal",20,"seed","originally noted as P. cinitus but ID appears to be P. truei with teeth & skull",89.00,"21","21"
+320,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Peromyscus truei","R46","oo","collected","Male","Non-scrotal",26,"pb",,99.00,"22","22"
+321,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Peromyscus truei","R8","pp","released","Male","Non-scrotal",12,"pb","Big ears, tail tuft",77.00,"22","20"
+322,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W4","253","ear tag","Female","Reprod.",13,"pb",,61.00,"17","13"
+323,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W4","253","recap","Female","Reprod.",12,"pb",,,,
+324,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W4","253","recap","Female","Reprod.",12,"pb",,,,
+325,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M49","478","ear tag","Female","Reprod.",14,"seed",,65.00,"15","15"
+326,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M48","478","recap","Female","Reprod.",13,"seed",,,,
+327,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M64","483","ear tag","Female","Reprod.",16,"seed",,77.00,"18","12"
+328,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M64","483","recap","Female","Reprod.",18,"seed",,,,
+329,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M65","483","recap","Female","Reprod.",16,"seed",,,,
+330,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M65","483","recap","Female","Reprod.",15,"pb",,,,
+331,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W1","494","ear tag","Female","Reprod.",16,"pb",,68.00,"15","12"
+332,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W1","494","recap","Female","Reprod.",,"pb","Pectoral spot. Called P. crinitus in data, but previously caught and identified as R. megalotis.",,,
+333,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W3","2002","ear tag","Female","Reprod.",12,"seed",,72.00,"17","13"
+334,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M37","2016","ear tag","Female","Reprod.",16,"pb",,69.00,"15","16"
+335,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M41","2016","recap","Female","Reprod.",18,"pb",,,,
+336,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M41","2016","recap","Female","Reprod.",21,"seed","Pregnant",,,
+337,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M33","2019","ear tag","Female","Reprod.",15,"pb",,71.00,"16","13"
+338,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M32","2019","recap","Female","Reprod.",15,"pb",,,,
+339,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M33","2019","recap","Female","Reprod.",14,"seed",,,,
+340,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W1","2026","ear tag","Female","Reprod.",16,"pb",,71.00,"16","14"
+341,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W17","2072","ear tag","Male","Scrotal",12,"seed",,69.00,"16","13"
+342,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W16","2072","recap","Male","Scrotal",12,"seed",,,,
+343,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W16","2072","recap","Male","Scrotal",12,"seed",,,,
+344,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W19","2073","ear tag","Female","Reprod.",14,"seed",,70.00,"17","12"
+345,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W14","2084","ear tag","Male","Scrotal",12,"seed",,81.00,"17.5","13"
+346,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W12","2087","ear tag","Male","Scrotal",13,"pb",,68.00,"15","12"
+347,"Yellowjacket","SK, AW, WW, KK","1400-1500",5/22/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W23","2093","ear tag","Male","Scrotal",11,"pb",,69.00,"15","12"
+348,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W10","2126","ear tag","Female","Reprod.",14,"seed",,69.00,"17","14"
+349,"Yellowjacket","KK, WW","1400-1500",5/24/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W11","2126","recap","Female","Reprod.",12,"seed","Looked like it was dying",,,
+350,"Yellowjacket","KK, WW","1400-1500",5/25/2011 0:00:00,"Riparian","Reithrodontomys megalotis","W11","2126","recap","Female","Reprod.",14,"pb",,,,
+351,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M45","2161","ear tag","Female","Non-reprod.",6,"seed",,58.50,"15","9"
+352,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M33","2176","ear tag","Male","Scrotal",11,"pb",,75.00,"17","13"
+353,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Meadow","Reithrodontomys megalotis","M30","2176","recap","Male","Scrotal",12,"seed",,,,
+354,"Yellowjacket","SK, AW","1400-1500",5/23/2011 0:00:00,"Rocky","Ammospermophilus leucurus","R16","2097","ear tag","Male","Non-scrotal",,"seed","Escaped from scale",73.00,"41","9"
+355,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Tamias minimus","R10","2139","ear tag","Female","Reprod.",71,"pb",,105.00,"29","18"
+356,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Tamias minimus","R16","2139","recap","Female","Reprod.",70,"pb",,,,
+357,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Tamias minimus","R8","2140","ear tag","Female","Reprod.",65,"pb","ear too small for T. quad. Pale chestnut, grey haunches",101.00,"28","14"
+358,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Tamias minimus","R23","2140","recap","Female","Reprod.",55,"pb",,,,
+359,"Yellowjacket","SK, AW","1400-1500",5/25/2011 0:00:00,"Rocky","Tamias minimus","R48","2164","ear tag","Female","Non-reprod.",48,"seed","Ran with tail up",94.00,"30","16"
+360,"Yellowjacket","SK, AW","1400-1500",5/26/2011 0:00:00,"Rocky","Tamias minimus","R48","qq","released","Female","Reprod.",57,"seed",,107.00,"29","15"
+361,"Yellowjacket","SK, AW","1400-1500",5/24/2011 0:00:00,"Rocky","Tamias rufus","R12","rr","collected","Male","Non-scrotal",48,"pb",,82.00,"29","14"

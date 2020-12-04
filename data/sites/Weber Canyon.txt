@@ -1,0 +1,92 @@
+"ID","Date","Site","Observer","Trap No","Bait","Species","Tag/ Clip","Indiv","Fate","Sex","Reprod","tail","hindfoot","ear","Mass","Notes","ID notes"
+1,8/17/2012 0:00:00,"Weber Canyon","JH","W7","Seed","Microtus mexicanus","0100","0100","Toe clip","Male","Non-scrotal",32.00,17.00,15.00,32.00,,
+2,8/19/2012 0:00:00,"Weber Canyon","SK","W7","Seed","Microtus mexicanus","0100","0100","Recap","Male","Non-scrotal",,,,29.00,"Double-checked sex",
+3,8/16/2012 0:00:00,"Weber Canyon","SY","W26","Seed","Microtus mexicanus","1000","1000","Toe clip","Female","Reprod.",29.00,18.00,12.00,37.00,"Called NR in hand, but R next day",
+4,8/19/2012 0:00:00,"Weber Canyon","SK","W24","Seed","Microtus mexicanus","1000","1000","Recap","Female","Reprod.",,,,37.00,"No nipples visible, but perforate",
+5,8/16/2012 0:00:00,"Weber Canyon","SK","W9","Seed","Microtus mexicanus","2000","2000","Toe clip","Female","Reprod.",30.00,17.00,16.00,37.00,"Four mammae - two in armpits and two above genitals",
+6,8/19/2012 0:00:00,"Weber Canyon","SK","W9","Seed","Microtus mexicanus","2000","2000","Recap","Female","Reprod.",,,,42.00,,
+7,8/16/2012 0:00:00,"Weber Canyon","SY","W1","Seed","Microtus mexicanus","3000","3000","Toe clip","Female","Reprod.",29.00,18.00,15.00,34.00,,
+8,8/17/2012 0:00:00,"Weber Canyon","SK","W12","PB","Microtus mexicanus","4000","4000","Toe clip","Male","Non-scrotal",30.00,19.50,14.00,35.50,,
+9,8/15/2012 0:00:00,"Weber Canyon","MS","W9","Seed","Microtus mexicanus","None","a","New; Collected","Female","Non-reprod.",32.00,18.00,16.00,32.00,,
+10,8/19/2012 0:00:00,"Weber Canyon","MS","W19","PB","Microtus mexicanus","None","b","New; Released","Female","Non-reprod.",29.00,28.00,13.00,31.00,,
+11,8/19/2012 0:00:00,"Weber Canyon","MS","W8","Seed","Microtus mexicanus","None","c","New; Collected","Female","Reprod.",35.00,19.00,17.00,46.00,"4 mammae. Seemed big",
+12,8/14/2012 0:00:00,"Weber Canyon","SY","F43","PB","Neotoma albigula","3449","3449","Ear tag","Female","Reprod.",125.00,30.00,24.00,113.00,"Chest hairs white at base",
+13,8/17/2012 0:00:00,"Weber Canyon","M5","F52","PB","Neotoma albigula","3455","3455","Ear tag","Male","Non-scrotal",,33.00,28.00,129.00,"Lost tail tip in trap. Chest hairs white at base",
+14,8/19/2012 0:00:00,"Weber Canyon","SK","F18","PB","Neotoma albigula","3455","3455","Recap","Male","Non-scrotal",,,,125.00,,
+15,8/15/2012 0:00:00,"Weber Canyon","SK","F24","PB","Neotoma albigula","3470","3470","Ear tag","Male","Non-scrotal",141.00,41.00,25.00,,"Fell off scale. Chest hairs white at base",
+16,8/16/2012 0:00:00,"Weber Canyon","MS","F22","Seed","Neotoma albigula","3470","3470","Recap","Male","Non-scrotal",,,,184.00,,
+17,8/16/2012 0:00:00,"Weber Canyon","SK","F39","PB","Neotoma albigula","3472","3472","Ear tag","Female","Non-reprod.",108.00,27.00,25.00,77.00,"Chest hairs white at base","ID verified with skull"
+18,8/17/2012 0:00:00,"Weber Canyon","SY","F37","Seed","Neotoma albigula","3472","3472","Recap","Female","Non-reprod.",,,,78.00,,"ID verified with skull"
+19,8/19/2012 0:00:00,"Weber Canyon","MS","F38","PB","Neotoma albigula","3472","3472","Recap; Collected","Female","Non-reprod.",,,,76.00,"Chest hairs white at base","ID verified with skull"
+20,8/19/2012 0:00:00,"Weber Canyon","SK","F8","PB","Neotoma albigula","None","d","New; Released","Female","Reprod.",130.00,30.00,26.00,151.00,"Chest hairs white at base",
+21,8/14/2012 0:00:00,"Weber Canyon","SK","W28","PB","Neotoma mexicana","3406","3406","Ear tag","Female","Reprod.",160.00,32.00,24.00,158.00,"Chest hairs grey at base",
+22,8/15/2012 0:00:00,"Weber Canyon","JH","W11","Seed","Neotoma mexicana","3406","3406","Recap","Female","Reprod.",,,,140.00,,
+23,8/16/2012 0:00:00,"Weber Canyon","MS","W28","PB","Neotoma mexicana","3406","3406","Recap","Female","Reprod.",,,,137.00,,
+24,8/14/2012 0:00:00,"Weber Canyon","SK","F18","PB","Neotoma mexicana","3439","3439","Ear tag","Female","Reprod.",,30.00,21.00,104.00,"Lost tail tip in trap. Chest hairs grey at base",
+25,8/15/2012 0:00:00,"Weber Canyon","SK","F17","PB","Neotoma mexicana","3439","3439","Recap","Female","Reprod.",,,,98.00,,
+26,8/16/2012 0:00:00,"Weber Canyon","SK","F17","PB","Neotoma mexicana","3439","3439","Recap","Female","Reprod.",,,,95.00,,
+27,8/15/2012 0:00:00,"Weber Canyon","SK","W27","PB","Neotoma mexicana","3441","3441","Ear tag","Male","Non-scrotal",138.00,32.00,24.00,140.00,"Chest hairs grey at base",
+28,8/15/2012 0:00:00,"Weber Canyon","JH","F14","PB","Neotoma mexicana","3451","3451","Ear tag","Male","Non-scrotal",160.00,33.00,27.00,173.00,"Chest hairs grey at base",
+29,8/17/2012 0:00:00,"Weber Canyon","SY","F16","PB","Neotoma mexicana","3451","3451","Recap","Male","Non-scrotal",,,,173.00,,
+30,8/16/2012 0:00:00,"Weber Canyon","MS","F5","PB","Neotoma mexicana","3453","3453","Ear tag","Male","Non-scrotal",79.00,31.00,27.00,114.00,"Stunted tail, no apparent injury new or old. Chest hairs grey at base",
+31,8/17/2012 0:00:00,"Weber Canyon","SY","R6","PB","Neotoma mexicana","3453","3453","Recap","Male","Non-scrotal",,,,110.00,"Movement from F5 to R6 is possible",
+32,8/16/2012 0:00:00,"Weber Canyon","JH","F8","PB","Neotoma mexicana","3466","3466","Ear tag","Male","Non-scrotal",139.00,32.00,26.00,107.00,"Chest hairs grey at base",
+33,8/16/2012 0:00:00,"Weber Canyon","SK","W27","PB","Neotoma mexicana","3467","3467","Ear tag","Male","Non-scrotal",,31.00,24.00,,"Lost tail tip in trap. Fell from scale. Chest hairs grey at base",
+34,8/17/2012 0:00:00,"Weber Canyon","MS","W30","PB","Neotoma mexicana","3467","3467","Recap","Male","Non-scrotal",,,,112.00,,
+35,8/15/2012 0:00:00,"Weber Canyon","SY","R27","PB","Neotoma mexicana","3474","3474","Ear tag","Female","Reprod.",149.00,31.00,24.00,149.00,"Chest hairs grey at base",
+36,8/19/2012 0:00:00,"Weber Canyon","SK","R27","PB","Neotoma mexicana","3474","3474","Recap","Female","Reprod.",,,,137.00,,
+37,8/19/2012 0:00:00,"Weber Canyon","MS","F51","PB","Neotoma mexicana","None","e","New; Collected","Male","Scrotal",148.00,33.00,26.00,137.00,"Chest hairs grey at base","ID verified with skull"
+38,8/15/2012 0:00:00,"Weber Canyon","JH","R29","PB","Peromyscus boylii","3473","3473","Ear tag; Collected","Male","Non-scrotal",90.00,21.00,20.00,14.50,"Ears seemed small relative to body","ID verified with skull"
+39,8/19/2012 0:00:00,"Weber Canyon","MS","F13","PB","Peromyscus boylii","None","f","New; Collected","Male","Non-scrotal",86.00,21.00,19.00,14.50,,"ID verified with skull"
+40,8/19/2012 0:00:00,"Weber Canyon","MS","F6","PB","Peromyscus boylii","None","g","New; Collected","Male","Non-scrotal",78.00,21.00,18.50,17.00,,"ID verified with skull"
+41,8/15/2012 0:00:00,"Weber Canyon","MS","W31","PB","Peromyscus maniculatus","3435","3435","Ear tag","Male","Scrotal",69.00,21.00,20.00,22.50,,
+42,8/16/2012 0:00:00,"Weber Canyon","SY","W31","PB","Peromyscus maniculatus","3435","3435","Recap","Male","Scrotal",,,,24.00,,
+43,8/15/2012 0:00:00,"Weber Canyon","JH","M30","PB","Peromyscus maniculatus","3442","3442","Ear tag","Male","Non-scrotal",64.00,18.00,16.00,15.50,,
+44,8/17/2012 0:00:00,"Weber Canyon","SY","W26","PB","Peromyscus maniculatus","3442","3442","Recap","Male","Non-scrotal",,,,16.50,"Movement from M30 to W26 is possible",
+45,8/15/2012 0:00:00,"Weber Canyon","SY","W18","Seed","Peromyscus maniculatus","3443","3443","Ear tag","Male","Non-scrotal",70.00,21.00,16.00,16.00,"Could be just in/out of scrotal condition",
+46,8/16/2012 0:00:00,"Weber Canyon","MS","W18","Seed","Peromyscus maniculatus","3443","3443","Recap","Male","Non-scrotal",,,,15.00,,
+47,8/17/2012 0:00:00,"Weber Canyon","JH","M30","PB","Peromyscus maniculatus","3454","3454","Ear tag","Male","Non-scrotal",69.00,21.00,18.00,15.50,,
+48,8/19/2012 0:00:00,"Weber Canyon","MS","M9","Seed","Peromyscus maniculatus","None","h","New; Released","Male","Non-scrotal",72.00,20.00,15.00,17.50,"No grooves on teeth",
+49,8/19/2012 0:00:00,"Weber Canyon","MS","R11","Seed","Peromyscus maniculatus","None","i","New; Released","Male","Non-scrotal",66.00,20.00,18.00,17.00,,
+50,8/14/2012 0:00:00,"Weber Canyon","SK","M15","Seed","Peromyscus truei","3405","3405","Ear tag","Male","Non-scrotal",83.00,21.00,21.00,13.00,"Juvie. Ears very large compared to body size. Black tuft on tail tip",
+51,8/14/2012 0:00:00,"Weber Canyon","SY","R1","PB","Peromyscus truei","3407","3407","Ear tag","Female","Non-reprod.",84.00,22.00,23.00,17.50,"Juvie. Ears very large compared to body size. Black tuft on tail tip",
+52,8/15/2012 0:00:00,"Weber Canyon","SK","F1","PB","Peromyscus truei","3407","3407","Recap","Female","Non-reprod.",,,,16.00,"F1 is fairly close to R1",
+53,8/16/2012 0:00:00,"Weber Canyon","MS","R1","PB","Peromyscus truei","3407","3407","Recap","Female","Non-reprod.",,,,16.50,,
+54,8/17/2012 0:00:00,"Weber Canyon","MS","R6","Seed","Peromyscus truei","3407","3407","Recap","Female","Non-reprod.",,,,16.00,,
+55,8/19/2012 0:00:00,"Weber Canyon","SK","F9","PB","Peromyscus truei","3407","3407","Recap","Female","Non-reprod.",,,,17.50,"Movement from R6 to F9 is possible",
+56,8/14/2012 0:00:00,"Weber Canyon","JH","F27","Seed","Peromyscus truei","3437","3437","Ear tag","Male","Non-scrotal",98.00,23.00,25.00,22.50,,"ID verified with skull"
+57,8/15/2012 0:00:00,"Weber Canyon","JH","F28","Seed","Peromyscus truei","3437","3437","Recap","Male","Non-scrotal",,,,21.50,,"ID verified with skull"
+58,8/16/2012 0:00:00,"Weber Canyon","JH","F29","Seed","Peromyscus truei","3437","3437","Recap","Male","Non-scrotal",,,,21.50,,"ID verified with skull"
+59,8/17/2012 0:00:00,"Weber Canyon","MS","F19","PB","Peromyscus truei","3437","3437","Recap; Collected","Male","Non-scrotal",,,,20.50,"Pectoral spot","ID verified with skull"
+60,8/14/2012 0:00:00,"Weber Canyon","MS","F2","PB","Peromyscus truei","3438","3438","Ear tag","Female","Non-reprod.",85.00,22.00,23.00,15.50,,
+61,8/15/2012 0:00:00,"Weber Canyon","JH","F2","Seed","Peromyscus truei","3438","3438","Recap","Female","Non-reprod.",,,,15.50,"Recorded as 3430 but must be 3438 - mis-read tag, as 3430 not used at this site",
+62,8/16/2012 0:00:00,"Weber Canyon","SK","F3","PB","Peromyscus truei","3438","3438","Recap","Female","Non-reprod.",,,,15.00,,
+63,8/17/2012 0:00:00,"Weber Canyon","SK","F2","Seed","Peromyscus truei","3438","3438","Recap","Female","Non-reprod.",,,,16.50,,
+64,8/19/2012 0:00:00,"Weber Canyon","SK","F2","Seed","Peromyscus truei","3438","3438","Recap","Female","Non-reprod.",,,,16.00,,
+65,8/14/2012 0:00:00,"Weber Canyon","MS","F42","PB","Peromyscus truei","3440","3440","Ear tag","Female","Reprod.",97.00,22.00,23.00,28.00,,"ID verified with skull"
+66,8/15/2012 0:00:00,"Weber Canyon","SK","F51","PB","Peromyscus truei","3440","3440","Recap","Female","Reprod.",,,,28.00,"Tail cut by trap.","ID verified with skull"
+67,8/16/2012 0:00:00,"Weber Canyon","SY","F37","Seed","Peromyscus truei","3440","3440","Recap; Collected","Female","Reprod.",,,,29.50,"Slightly injured tail. Orange fur across pecs.","ID verified with skull"
+68,8/14/2012 0:00:00,"Weber Canyon","MS","R28","PB","Peromyscus truei","3444","3444","Ear tag","Female","Reprod.",109.00,25.00,25.00,28.50,,
+69,8/15/2012 0:00:00,"Weber Canyon","MS","R30","PB","Peromyscus truei","3444","3444","Recap","Female","Reprod.",,,,26.00,,
+70,8/16/2012 0:00:00,"Weber Canyon","SY","R30","Seed","Peromyscus truei","3444","3444","Recap","Female","Reprod.",,,,26.00,,
+71,8/17/2012 0:00:00,"Weber Canyon","SK","R26","PB","Peromyscus truei","3444","3444","Recap","Female","Reprod.",,,,28.50,,
+72,8/19/2012 0:00:00,"Weber Canyon","MS","F29","PB","Peromyscus truei","3444","3444","Recap","Female","Reprod.",,,,30.00,"R26 to F29 is fairly far, but possible. Certain ear tag reading",
+73,8/14/2012 0:00:00,"Weber Canyon","SK","F55","Seed","Peromyscus truei","3448","3448","Ear tag","Female","Reprod.",93.00,22.00,23.00,19.00,,"ID verified with skull"
+74,8/16/2012 0:00:00,"Weber Canyon","MS","F51","PB","Peromyscus truei","3448","3448","Recap","Female","Reprod.",,,,17.50,,"ID verified with skull"
+75,8/17/2012 0:00:00,"Weber Canyon","JH","F55","PB","Peromyscus truei","3448","3448","Recap; Collected","Female","Reprod.",,,,17.00,"Pectoral spot","ID verified with skull"
+76,8/15/2012 0:00:00,"Weber Canyon","JH","F18","PB","Peromyscus truei","3450","3450","Ear tag","Male","Non-scrotal",89.00,23.00,25.00,17.00,,
+77,8/16/2012 0:00:00,"Weber Canyon","SY","F16","Seed","Peromyscus truei","3450","3450","Recap","Male","Non-scrotal",,,,18.50,,
+78,8/17/2012 0:00:00,"Weber Canyon","JH","F12","Seed","Peromyscus truei","3450","3450","Recap","Male","Non-scrotal",,,,17.00,,
+79,8/19/2012 0:00:00,"Weber Canyon","MS","F10","PB","Peromyscus truei","3450","3450","Recap","Male","Non-scrotal",,,,16.50,,
+80,8/17/2012 0:00:00,"Weber Canyon","JH","F26","Seed","Peromyscus truei","3465","3465","Ear tag","Female","Reprod.",99.00,22.00,23.50,21.50,,
+81,8/19/2012 0:00:00,"Weber Canyon","MS","F22","PB","Peromyscus truei","3465","3465","Recap","Female","Reprod.",,,,20.00,,
+82,8/15/2012 0:00:00,"Weber Canyon","SK","F5","Seed","Peromyscus truei","3468","3468","Ear tag; Collected","Male","Non-scrotal",94.00,22.50,25.00,17.50,,"ID verified with skull"
+83,8/15/2012 0:00:00,"Weber Canyon","SY","F44","Seed","Peromyscus truei","3471","3471","Ear tag","Male","Non-scrotal",95.00,23.00,24.00,21.50,,
+84,8/16/2012 0:00:00,"Weber Canyon","SK","R29","Seed","Peromyscus truei","3471","3471","Recap","Male","Non-scrotal",,,,23.00,"Double-checked tag in hand. Movement from F44 feasible",
+85,8/19/2012 0:00:00,"Weber Canyon","SK","F44","Seed","Peromyscus truei","3471","3471","Recap","Male","Non-scrotal",,,,20.00,,
+86,8/19/2012 0:00:00,"Weber Canyon","SK","F33","PB","Peromyscus truei","None","j","New; Released","Male","Non-scrotal",87.00,22.00,21.50,15.00,"Juvie. Ears very large compared to body size. Black tuft on tail tip",
+87,8/14/2012 0:00:00,"Weber Canyon","JH","R30","Seed","Peromyscus truei","3436","3436","Ear tag; Collected","Female","Non-reprod.",86.00,23.00,21.00,18.00,"Ears did not seem big. More adult coloration - ocheraceous sides.","ID verified with skull"
+88,8/17/2012 0:00:00,"Weber Canyon","SK","F29","PB","Spermophilus variegatus","None","k","Released","Female","Reprod.",150.00,40.00,21.00,158.00,,
+89,8/17/2012 0:00:00,"Weber Canyon","SK","R30","Seed","Spermophilus variegatus","None","l","Released","Female","Reprod.",,,,,"Too big to weigh or measure",
+90,8/19/2012 0:00:00,"Weber Canyon","SK","F26","Seed","Spermophilus variegatus","None","m","New; Released","Male","Non-scrotal",145.00,46.00,20.00,156.00,,
+91,8/17/2012 0:00:00,"Weber Canyon","SK","F20","PB","Tamias rufus","3464","3464","Ear tag; Collected","Female","Non-reprod.",104.00,29.00,18.00,50.00,"Seems big for rufus, but very red","ID verified with skull"
