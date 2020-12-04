@@ -1,6 +1,6 @@
-# 2020_McCainEtAl
+# McCain CM, SRB King, TM Szewczyk. 2020. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*.
 
-Code repository for McCain CM, SRB King, TM Szewczyk. 2020. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*.
+Code repository accompanying the manuscript.
 
 
 ## Table of Contents  
