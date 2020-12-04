@@ -1,9 +1,11 @@
-# McCain CM, SRB King, TM Szewczyk. 2020. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*.
+### McCain CM, SRB King, TM Szewczyk. 2020. Unusually large upward shifts in cold-adapted, montane mammals as temperature warms. *Ecology*.
+
+---  
 
 Code repository accompanying the manuscript.
 
 
-## Table of Contents  
+### Table of Contents  
 - **data/** contains data files, including raw files and files produced by scripts in this repository.
   - Mamm_Summary_Data.csv: Elevational minimum, maximum, and number of detections for each species in each moutain range and era  
   - Mamm_FR_50m.csv: Detection data for the Front Range at 50m elevational bins  
